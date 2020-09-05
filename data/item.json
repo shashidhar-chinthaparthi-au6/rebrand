@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "hotelOne",
+    "location": "Delhi",
+    "foodItems": [
+      { "itemName": "pizza", "price": 12, "inCart": false, "type": "veg" },
+      { "itemName": "soup", "price": 22, "inCart": false, "type": "nonveg" }
+    ]
+  },
+  {},
+  {},
+  {}
+]
